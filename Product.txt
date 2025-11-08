@@ -1,0 +1,50 @@
+1,Smartphone,1,Active
+2,Laptop,1,Active
+3,Tablet,1,Active
+4,Bluetooth Speaker,1,Inactive
+5,Wireless Headphones,1,Active
+6,T-Shirt,2,Active
+7,Jeans,2,Active
+8,Sneakers,2,Inactive
+9,Jacket,2,Active
+10,Scarf,2,Active
+11,Cooking Pot,3,Active
+12,Plastic Organizer,3,Inactive
+13,Broom,3,Active
+14,Cutting Board,3,Active
+15,Laundry Basket,3,Active
+16,Canned Beans,4,Inactive
+17,Pasta Pack,4,Active
+18,Olive Oil Bottle,4,Active
+19,Tea Box,4,Active
+20,Chocolate Bar,4,Inactive
+21,Office Chair,5,Active
+22,Wooden Desk,5,Active
+23,Bookshelf,5,Active
+24,Sofa,5,Inactive
+25,Coffee Table,5,Active
+26,Dish Soap,6,Active
+27,Floor Cleaner,6,Active
+28,Toilet Brush,6,Inactive
+29,Glass Wipes,6,Active
+30,Laundry Detergent,6,Active
+31,Notebook,7,Active
+32,Ballpoint Pen,7,Inactive
+33,Stapler,7,Active
+34,A4 Paper Pack,7,Active
+35,Highlighter Set,7,Active
+36,Shampoo,8,Inactive
+37,Toothpaste,8,Active
+38,Face Cream,8,Active
+39,Shaving Gel,8,Active
+40,Body Lotion,8,Inactive
+41,Hammer,9,Active
+42,Screwdriver Set,9,Active
+43,Measuring Tape,9,Active
+44,Nails Pack,9,Inactive
+45,Utility Knife,9,Active
+46,Board Game,10,Active
+47,Building Blocks,10,Active
+48,Story Book,10,Inactive
+49,Puzzle Set,10,Active
+50,Toy Car,10,Active

@@ -1,0 +1,9 @@
+2025-05-22 | Add Shipment | SHP1 | P1 | +5
+2025-05-22 | Add Shipment | SHP2 | P2 | +4
+2025-05-22 | Add Shipment | SHP3 | P4 | +5
+2025-05-22 | Cancel Shipment | SHP3 | P4 | -5
+2025-05-22 | Cancel Shipment | SHP2 | P2 | -4
+2025-05-22 | Cancel Shipment | SHP1 | P1 | -5
+2025-05-22 | Add Shipment | SHP1 | P1 | +10
+2025-05-22 | Cancel Shipment | SHP2 | P1 | -15
+2025-05-22 | Add Shipment | SHP2 | P1 | +15

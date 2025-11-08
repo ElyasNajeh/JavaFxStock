@@ -1,0 +1,10 @@
+1,Electronics,Devices and gadgets such as phones tablets and accessories used in daily life
+2,Clothing,Apparel including shirts pants jackets and other fashion items for men women and kids
+3,Home Tools,Household essentials like pans storage containers cleaning tools and everyday items
+4,Food Products,Packaged foods snacks canned items and other edible goods for home consumption
+5,Furniture,Home and office furniture including chairs tables sofas and storage solutions
+6,Cleaning Supplies,Products used for cleaning like detergents disinfectants brooms and wipes
+7,Office and School Supplies,Stationery and materials like notebooks pens folders and paper used at work or school
+8,Personal and Health Care,Items for self-care such as shampoo toothpaste creams and hygiene products
+9,Hardware and Tools,Manual tools like hammers screwdrivers nails and utility items for repairs and maintenance
+10,Toys and Entertainment,Games toys books and fun items used for recreation and leisure for all ages
